@@ -51,6 +51,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 💡 Contributions
 Feel free to contribute! If you find any issues or have suggestions, open an issue or submit a pull request.
 
----
-_Made with ❤️ using React + TypeScript._
+## _Made with ❤️ using React + TypeScript._
 
