@@ -1,4 +1,5 @@
 {
+  "homepage": "to-do-app",
   "name": "react-typescript-starter-pack",
   "version": "0.1.0",
   "dependencies": {
